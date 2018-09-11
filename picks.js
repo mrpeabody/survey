@@ -1,5 +1,6 @@
 var picks = {
     name: 'Week 2 Picks!',
+    week: '2',
     sections: [
         {
             name: 'GAMES',
