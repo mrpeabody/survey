@@ -15,15 +15,6 @@ var picks = {
                     ]
                 },
                 {
-                    question: 'Ravens Vs. Bengals',
-                    required: true,
-                    type: 'choice',
-                    options: [
-                        {value: 'Ravens', selected: false},
-                        {value: 'Bengals', selected: false}
-                    ]
-                },
-                {
                     question: 'Chiefs Vs. Steelers',
                     required: true,
                     type: 'choice',
