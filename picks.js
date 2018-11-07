@@ -33,12 +33,12 @@ var picks = {
                     ]
                 },
                 {
-                    question: 'Cardinals Vs. Cheifs',
+                    question: 'Cardinals Vs. Chiefs',
                     required: true,
                     type: 'choice',
                     options: [
                         {value: 'Cardinals', selected: false},
-                        {value: 'Cheifs', selected: false}
+                        {value: 'Chiefs', selected: false}
                     ]
                 },
                 {
