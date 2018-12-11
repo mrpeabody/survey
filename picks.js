@@ -1,6 +1,6 @@
 var picks = {
-    name: 'Week 14 Picks!',
-    week: '14',
+    name: 'Week 15 Picks!',
+    week: '15',
     sections: [
         {
             name: 'GAMES',
@@ -15,147 +15,147 @@ var picks = {
                     ]
                 },
                 {
-                    question: 'Jaguars Vs. Titans',
+                    question: 'Chargers Vs. Chiefs',
                     required: true,
                     type: 'choice',
                     options: [
-                        {value: 'Jaguars', selected: false},
-                        {value: 'Titans', selected: false}
-                    ]
-                },
-                {
-                    question: 'Panthers Vs. Browns',
-                    required: true,
-                    type: 'choice',
-                    options: [
-                        {value: 'Panthers', selected: false},
-                        {value: 'Browns', selected: false}
-                    ]
-                },
-                {
-                    question: 'Ravens Vs. Chiefs',
-                    required: true,
-                    type: 'choice',
-                    options: [
-                        {value: 'Ravens', selected: false},
+                        {value: 'Chargers', selected: false},
                         {value: 'Chiefs', selected: false}
                     ]
                 },
                 {
-                    question: 'Colts Vs. Texans',
+                    question: 'Texans Vs. Jets',
                     required: true,
                     type: 'choice',
                     options: [
-                        {value: 'Colts', selected: false},
-                        {value: 'Texans', selected: false}
+                        {value: 'Texans', selected: false},
+                        {value: 'Jets', selected: false}
                     ]
                 },
                 {
-                    question: 'Patriots Vs. Dolphins',
+                    question: 'Browns Vs. Broncos',
                     required: true,
                     type: 'choice',
                     options: [
-                        {value: 'Patriots', selected: false},
-                        {value: 'Dolphins', selected: false}
+                        {value: 'Browns', selected: false},
+                        {value: 'Broncos', selected: false}
                     ]
                 },
                 {
-                    question: 'Giants Vs. Redskins',
+                    question: 'Cardinals Vs. Falcons',
                     required: true,
                     type: 'choice',
                     options: [
-                        {value: 'Giants', selected: false},
-                        {value: 'Redskins', selected: false}
+                        {value: 'Cardinals', selected: false},
+                        {value: 'Falcons', selected: false}
                     ]
                 },
                 {
-                    question: 'Saints Vs. Buccaneers',
+                    question: 'Raiders Vs. Bengals',
                     required: true,
                     type: 'choice',
                     options: [
-                        {value: 'Saints', selected: false},
-                        {value: 'Buccaneers', selected: false}
+                        {value: 'Raiders', selected: false},
+                        {value: 'Bengals', selected: false}
                     ]
                 },
                 {
-                    question: 'Falcons Vs. Packers',
+                    question: 'Dolhpins Vs. Vikings',
                     required: true,
                     type: 'choice',
                     options: [
-                        {value: 'Falcons', selected: false},
-                        {value: 'Packers', selected: false}
+                        {value: 'Dolphins', selected: false},
+                        {value: 'Vikings', selected: false}
                     ]
                 },
                 {
-                    question: 'Jets Vs. Bills',
+                    question: 'Cowboys Vs. Colts',
                     required: true,
                     type: 'choice',
                     options: [
-                        {value: 'Jets', selected: false},
-                        {value: 'Bills', selected: false}
+                        {value: 'Cowboys', selected: false},
+                        {value: 'Colts', selected: false}
                     ]
                 },
                 {
-                    question: 'Bengals Vs. Chargers',
+                    question: 'Buccaneers Vs. Ravens',
                     required: true,
                     type: 'choice',
                     options: [
-                        {value: 'Bengals', selected: false},
-                        {value: 'Chargers', selected: false}
+                        {value: 'Buccaneers', selected: false},
+                        {value: 'Ravens', selected: false}
                     ]
                 },
                 {
-                    question: 'Broncos Vs. 49ers',
-                    required: true,
-                    type: 'choice',
-                    options: [
-                        {value: 'Broncos', selected: false},
-                        {value: '49ers', selected: false}
-                    ]
-                },
-                {
-                    question: 'Eagles Vs. Cowboys',
-                    required: true,
-                    type: 'choice',
-                    options: [
-                        {value: 'Eagles', selected: false},
-                        {value: 'Cowboys', selected: false}
-                    ]
-                },
-                {
-                    question: 'Steelers Vs. Raiders',
-                    required: true,
-                    type: 'choice',
-                    options: [
-                        {value: 'Steelers', selected: false},
-                        {value: 'Raiders', selected: false}
-                    ]
-                },
-                {
-                    question: 'Lions Vs. Cardinals',
+                    question: 'Lions Vs. Bills',
                     required: true,
                     type: 'choice',
                     options: [
                         {value: 'Lions', selected: false},
-                        {value: 'Cardinals', selected: false}
+                        {value: 'Bills', selected: false}
                     ]
                 },
                 {
-                    question: 'Rams Vs. Bears',
+                    question: 'Packers Vs. Bears',
                     required: true,
                     type: 'choice',
                     options: [
-                        {value: 'Rams', selected: false},
+                        {value: 'Packers', selected: false},
                         {value: 'Bears', selected: false}
                     ]
                 },
                 {
-                    question: 'Vikings Vs. Seahawks',
+                    question: 'Redskins Vs. Jaguars',
                     required: true,
                     type: 'choice',
                     options: [
-                        {value: 'Vikings', selected: false},
-                        {value: 'Seahawks', selected: false}
+                        {value: 'Redskins', selected: false},
+                        {value: 'Jaguars', selected: false}
+                    ]
+                },
+                {
+                    question: 'Titans Vs. Giants',
+                    required: true,
+                    type: 'choice',
+                    options: [
+                        {value: 'Titans', selected: false},
+                        {value: 'Giants', selected: false}
+                    ]
+                },
+                {
+                    question: 'Seahawks Vs. 49ers',
+                    required: true,
+                    type: 'choice',
+                    options: [
+                        {value: 'Seahawks', selected: false},
+                        {value: '49ers', selected: false}
+                    ]
+                },
+                {
+                    question: 'Patriots Vs. Steelers',
+                    required: true,
+                    type: 'choice',
+                    options: [
+                        {value: 'Patriots', selected: false},
+                        {value: 'Steelers', selected: false}
+                    ]
+                },
+                {
+                    question: 'Eagles Vs. Rams',
+                    required: true,
+                    type: 'choice',
+                    options: [
+                        {value: 'Eagles', selected: false},
+                        {value: 'Rams', selected: false}
+                    ]
+                },
+                {
+                    question: 'Saints Vs. Panthers',
+                    required: true,
+                    type: 'choice',
+                    options: [
+                        {value: 'Saints', selected: false},
+                        {value: 'Panthers', selected: false}
                     ]
                 }
             ]
